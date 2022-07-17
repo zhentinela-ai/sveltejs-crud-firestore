@@ -18,6 +18,9 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^2.0.0"
+    "bootswatch": "^5.1.3",
+    "firebase": "^9.6.8",
+    "sirv-cli": "^2.0.0",
+    "toastify-js": "^1.11.2"
   }
 }
